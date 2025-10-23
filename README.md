@@ -42,7 +42,7 @@ Performance on the test set closely matches cross-validation results (CV F1 = 0.
 
 ---
 
-## Safety-First Philosophy
+## Safety-First Approach
 
 In tsunami prediction, **missing a real event (False Negative)** has catastrophic consequences.  
 Therefore, the model was explicitly optimized for **Recall**, not pure accuracy.
@@ -95,7 +95,7 @@ This model correctly classifies about **9 out of 10 earthquakes** and **detects 
 
 ---
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 
 - **Python 3.10+**
 - `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
